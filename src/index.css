@@ -6,6 +6,8 @@
   --light-accent: #E6D4B3;
   --font-title: 2.5rem; 
   --font-smaller: 1.3rem;
+  --btn-padding-top: 8px;
+  --btn-padding-side: 26px;
 }
 
 body {

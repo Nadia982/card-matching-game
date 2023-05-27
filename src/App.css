@@ -11,7 +11,7 @@ h1 {
 button {
   background: none;
   border: 2px solid var(--light-accent);
-  padding: 10px 20px;
+  padding: var(--btn-padding-top) var(--btn-padding-side);
   border-radius: 4px;
   color: var(--light-accent);
   font-weight: bold;
