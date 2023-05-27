@@ -11,6 +11,7 @@ h1 {
 button {
   background: none;
   border: 2px solid var(--light-accent);
+  margin: var(--standard-margin);
   padding: var(--btn-padding-top) var(--btn-padding-side);
   border-radius: 4px;
   color: var(--light-accent);
@@ -25,16 +26,14 @@ button:hover {
 }
 
 .card-grid {
-  width: 90%;
-  /* border: 4px solid hotpink; */
+  width: 100%;
   margin: var(--standard-margin) auto;
   display: grid;
   place-items: center;
   grid-template-columns: repeat(4, 1fr);
-  /* grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr)); */
-  gap: 2vw;
+  gap: 1vw;
 }
 
 p {
-  margin-top: var(--standard-margin)
+  margin-top: 30px;
 }
