@@ -4,6 +4,8 @@
   --btn-color: #045D5D;
   --btn-color-alternative: #c23866;
   --light-accent: #E6D4B3;
+  --font-title: 2.5rem; 
+  --font-smaller: 1.3rem;
 }
 
 body {
@@ -13,9 +15,4 @@ body {
   text-align: center;
   background-color: #1b1523;
   color: var(--light-accent);
-}
-
-img{
-  width: 106px;
-  height: 160px;
 }
