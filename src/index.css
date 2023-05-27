@@ -14,3 +14,8 @@ body {
   background-color: #1b1523;
   color: var(--light-accent);
 }
+
+img{
+  width: 106px;
+  height: 160px;
+}
